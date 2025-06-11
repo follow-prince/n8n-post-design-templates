@@ -1,0 +1,124 @@
+.post {
+  background-color: #eeeeee;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.post .overlap-wrapper {
+  background-color: #eeeeee;
+  overflow: hidden;
+  width: 1080px;
+  height: 1350px;
+}
+.post .overlap {
+  position: relative;
+  width: 1427px;
+  height: 1908px;
+  top: -558px;
+}
+.post .overlap-group {
+  position: absolute;
+  width: 1427px;
+  height: 1908px;
+  top: 0;
+  left: 0;
+}
+.post .frame {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 75px;
+  position: absolute;
+  top: 708px;
+  left: 100px;
+}
+.post .text-wrapper {
+  position: relative;
+  width: 879px;
+  margin-top: -1px;
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  color: #1d1d1dbf;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 43.2px;
+}
+.post .div {
+  position: relative;
+  width: 879px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 700;
+  color: #1d1d1d;
+  font-size: 80px;
+  letter-spacing: 0;
+  line-height: 96px;
+}
+.post .lorem-ipsum-lorem {
+  position: relative;
+  width: 879px;
+  font-family: "Inter-Bold", Helvetica;
+  font-weight: 400;
+  color: #1d1d1d;
+  font-size: 36px;
+  letter-spacing: 0.72px;
+  line-height: normal;
+}
+.post .span {
+  font-weight: 700;
+  letter-spacing: 0.26px;
+}
+.post .text-wrapper-2 {
+  font-family: "Inter-Medium", Helvetica;
+  font-weight: 500;
+  letter-spacing: 0.26px;
+}
+.post .group {
+  position: absolute;
+  width: 769px;
+  height: 858px;
+  top: 1050px;
+  left: 0;
+}
+.post .overlap-group-wrapper {
+  position: absolute;
+  width: 1013px;
+  height: 1070px;
+  top: 0;
+  left: 414px;
+}
+.post .overlap-group-2 {
+  position: relative;
+  width: 666px;
+  height: 524px;
+  top: 546px;
+}
+.post .img {
+  position: absolute;
+  width: 666px;
+  height: 512px;
+  top: 12px;
+  left: 0;
+}
+.post .rectangle {
+  position: absolute;
+  width: 225px;
+  height: 39px;
+  top: 0;
+  left: 262px;
+  background-color: #eeeeee;
+}
+.post .group-2 {
+  position: absolute;
+  width: 652px;
+  height: 648px;
+  top: 1260px;
+  left: 0;
+}
+.post .logo-black {
+  position: absolute;
+  width: 110px;
+  height: 110px;
+  top: 1748px;
+  left: 920px;
+}
